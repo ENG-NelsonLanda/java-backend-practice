@@ -54,8 +54,6 @@ public class PluginManagerTest {
         // TODO: listar nuevamente
 
     }
-
-
 }
 
 ========================================
